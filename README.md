@@ -26,8 +26,7 @@ Mở file `index.html`, sử dụng các class Tailwind CSS để tạo một **
   * 2 nút bấm tự động xoay sang **hàng ngang** (`md:flex-row`), bề rộng nút co lại vừa chữ (`md:w-auto`).
   * Nút bấm có hiệu ứng đổi màu nhẹ khi rê chuột (`hover:bg-... transition`).
 
-  ![Giao diện mẫu](<img width="1100" height="453" alt="ex" src="https://github.com/user-attachments/assets/5cf13201-ca6e-47e4-94b4-95f41257161c" />)
-
+<img src="https://github.com/user-attachments/assets/5cf13201-ca6e-47e4-94b4-95f41257161c" alt="Giao diện mẫu" width="100%" />
 
 ---
 
