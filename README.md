@@ -33,6 +33,6 @@ Mở file `index.html`, sử dụng các class Tailwind CSS để tạo một **
 1. Bấm **Fork** repo về tài khoản cá nhân.
 2. Clone repo về máy và tạo nhánh làm bài:
    ```bash
-   git clone <link-repo-fork-cua-ban>
+   git clone link-repo-fork-cua-ban
    cd TailwindCSS-ResponsiveDesign
-   git checkout -b submission/<MSSV>-<HoTen>
+   git checkout -b submission/MSSV-HoTen
